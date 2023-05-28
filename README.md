@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @thennv2
 - 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence
 - 🌱 I’m currently learning Artificial Intelligence at The School of AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on DS, ML and AI Projects.
+- 📫 How to reach me thennv2@gmail.com
 
 <!---
 thennv2/thennv2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
